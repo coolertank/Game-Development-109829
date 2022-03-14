@@ -1,4 +1,4 @@
-% Player Paddle Code :
+% Player Paddle Code :  Bilal Shaikh
 
 using UnityEngine;
 
@@ -26,7 +26,7 @@ public class PlayerPaddle : Paddle
 
 }
 
-% Comupter Paddle Code
+% Comupter Paddle Code : Raza 
 
 using UnityEngine;
 
@@ -60,7 +60,7 @@ public class ComputerPaddle : Paddle
 }
 
 
-% Score Code
+% Score Code : Qasim
 
 using UnityEngine;
 using UnityEngine.Events;
