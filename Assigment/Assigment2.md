@@ -1,10 +1,3 @@
-| Student Id    | Student Name |
-| ------------- | ------------- |
-| 62357         | Qasim Hassan|
-| 62952         | Raza Ahmed  |
-| 63004         | Shaikh Bilal Ahmed  |
-
-
 | Student Id    | Student Name | Game Ideas |
 | ------------- | ------------- |---------- |
 | 62357         | Qasim Hassan|<u> 1)Cube-Athon</u></br> This is a game in which player will be a cube he will have to move forward in levels and avoid different obstacles and it will be also little challenging as it will have fog in it which will make it not easily visible for players to finish it</br><u>2)Pac Man</u></br>  We can Design a game like pac man but add few more challenging things to it like adding some visibility difficulty and other challenges as well like zero gravity etc</br><u>3)2D Shooting game</u></br>In this game we can design a proper story line and we will have to save someone in the end while defeating different enemies|
