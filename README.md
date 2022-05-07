@@ -6,6 +6,7 @@ This repository is made for game development course
 | 62357         | Qasim Hassan|
 | 62952         | Raza Ahmed  |
 | 63004         | Shaikh Bilal Ahmed  |
+| 61654         | Aarij Hassan Saadi.|
 
 Games that we would like to make if we had time and resources 
 | Student Id    | Student Name | Game Idea |
@@ -13,3 +14,4 @@ Games that we would like to make if we had time and resources
 | 62357         | Qasim Hassan| Game that i would like to make would be platform game where user will have to reach a high score while going up and avoiding obstacles|
 | 62952         | Raza Ahmed  | The Game I would like to build must be quite simple probably like 2D snape game. Which should be interacting with the nostalgia of millennial.
 | 63004         | Shaikh Bilal Ahmed  |Game that i like to create a skating game software would surely be a chartbuster among players. This game is very interesting and enjoyable.
+|  61654| Aarij Hassan| Racig game
